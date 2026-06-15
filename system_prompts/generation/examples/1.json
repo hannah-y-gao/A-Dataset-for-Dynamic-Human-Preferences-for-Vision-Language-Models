@@ -1,0 +1,11 @@
+{
+    "scene": "Here is a picture of my workspace, featuring a desk with two computers and two monitors.",
+    "preference": "I am right-handed, so I would like to keep my water bottle on the right side of my workspace",
+    "question": "What change, if any, should I make to my workspace?",
+    "choices": {
+      "a": "remove the water bottle from the scene",
+      "b": "move the water bottle to be between the mouse and white keyboard",
+      "c": "move the water bottle behind the compositional notebook but in front of the black computer",
+      "d": "make no changes"
+    }
+}

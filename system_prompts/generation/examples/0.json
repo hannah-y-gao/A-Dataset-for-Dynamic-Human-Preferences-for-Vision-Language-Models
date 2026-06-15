@@ -1,0 +1,11 @@
+{
+    "scene": "Here is a picture of my workspace, featuring a desk with two computers and two monitors.",
+    "preference": "I would like to keep my workspace as uncluttered as possible.",
+    "question": "What change, if any, should I make to my workspace?",
+    "choices": {
+      "a": "swap the black and white keyboard locations",
+      "b": "add a thin stack of papers under the left computer",
+      "c": "remove the left pile of papers from the desk",
+      "d": "make no changes"
+    }
+}

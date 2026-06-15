@@ -1,0 +1,11 @@
+{
+    "scene": "Here is a picture of a room, featuring a large desk with computers and several wall hangings.",
+    "preference": "I prefer that each wall face hold similar-sized wall decorations, such as posters and plaques.",
+    "question": "What change to this scene, if any, would satisfy my preference?",
+    "choices": {
+      "a": "remove the large white poster behind the large computer on the main workdesk",
+      "b": "move both of the small clear plaques to the other wall face in the room",
+      "c": "remove the small blue poster behind the main workdesk",
+      "d": "make no changes"
+    }
+  }

@@ -1,0 +1,8 @@
+.env
+.vscode/
+slurm_logs/
+__pycache__/
+*.pyc
+credentials.json
+token.json
+yolo26n.pt
